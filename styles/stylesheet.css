@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(135deg, #ff6a00, #ee0979);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.content {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 10px;
+}
